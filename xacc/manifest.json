@@ -1,0 +1,6 @@
+{
+  "bundle.symbolic_name" : "xacc_cmaes",
+  "bundle.activator" : true,
+  "bundle.name" : "XACC CMAES Optimizer",
+  "bundle.description" : ""
+}
